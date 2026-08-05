@@ -1,4 +1,6 @@
 
+
+
 var _right = keyboard_check(imputs.right)
 var _left =  keyboard_check(imputs.left)
 var _jump = keyboard_check(imputs.jump)

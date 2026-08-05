@@ -6,7 +6,7 @@ if (_colx) {
 		x = _colx.bbox_left + (x - bbox_right)
 	}
 	if (velh < 0){
-		x = _colx.bbox_right + (x - bbox_left)
+		x = _colx.bbox_right + (x + bbox_left)
 	}
 	velh = 0
 }
@@ -18,7 +18,7 @@ if (_coly) {
 		y = _coly.bbox_top + (y - bbox_bottom)
 	}
 	if (velv < 0){
-		y = _coly.bbox_bottom + (y - bbox_top)
+		y = _coly.bbox_bottom + (y + bbox_top)
 	}
 	velv = 0
 }
