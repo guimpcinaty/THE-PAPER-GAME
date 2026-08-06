@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_casa",
-    "path":"sprites/spr_casa/spr_casa.yy",
+    "name":"spr_casa_floresta",
+    "path":"sprites/spr_casa_floresta/spr_casa_floresta.yy",
   },
   "spriteMaskId":null,
   "visible":true,
