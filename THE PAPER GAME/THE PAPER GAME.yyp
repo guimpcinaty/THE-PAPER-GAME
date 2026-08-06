@@ -35,6 +35,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"scr_global","path":"scripts/scr_global/scr_global.yy",},},
     {"id":{"name":"scr_trocar_estado","path":"scripts/scr_trocar_estado/scr_trocar_estado.yy",},},
+    {"id":{"name":"scr_trocar_sprite","path":"scripts/scr_trocar_sprite/scr_trocar_sprite.yy",},},
     {"id":{"name":"spr_carpinteiro","path":"sprites/spr_carpinteiro/spr_carpinteiro.yy",},},
     {"id":{"name":"spr_casa_cemiterio","path":"sprites/spr_casa_cemiterio/spr_casa_cemiterio.yy",},},
     {"id":{"name":"spr_casa_cidade","path":"sprites/spr_casa_cidade/spr_casa_cidade.yy",},},
