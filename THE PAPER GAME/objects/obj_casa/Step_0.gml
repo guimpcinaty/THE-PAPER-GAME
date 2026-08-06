@@ -10,5 +10,5 @@ if (tempo >= 0) {
 		tempo--;
 	}
 }else{
-	room_goto_next();
+	room_goto(destino);
 }
