@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_inimigo2",
+  "%Name":"obj_carpinteiro",
   "eventList":[],
   "managed":true,
-  "name":"obj_inimigo2",
+  "name":"obj_carpinteiro",
   "overriddenProperties":[],
   "parent":{
-    "name":"ENTIDADES",
-    "path":"folders/OBJETOS/ENTIDADES.yy",
+    "name":"INIMIGOS",
+    "path":"folders/OBJETOS/ENTIDADES/INIMIGOS.yy",
   },
   "parentObjectId":null,
   "persistent":false,
