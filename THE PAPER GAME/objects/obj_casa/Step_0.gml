@@ -1,15 +1,6 @@
 
-if (keyboard_check(ord("S"))){
-if (global.estado == "floresta") {
-		sprite_index = spr_casa_floresta;
-}
-if (global.estado == "cidade") {
-		sprite_index = spr_casa_cidade;
-}
-if (global.estado == "cemiterio") {
-		sprite_index = spr_casa_cemiterio;
-		global.ciclos++;
-}
+if (keyboard_check(ord("F"))){
+
 }
 
 if (tempo >= 0) {

@@ -6,8 +6,8 @@
   "name":"obj_inimigo1",
   "overriddenProperties":[],
   "parent":{
-    "name":"ENTIDADES",
-    "path":"folders/OBJETOS/ENTIDADES.yy",
+    "name":"INIMIGOS",
+    "path":"folders/OBJETOS/ENTIDADES/INIMIGOS.yy",
   },
   "parentObjectId":null,
   "persistent":false,

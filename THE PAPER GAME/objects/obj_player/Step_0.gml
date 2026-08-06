@@ -3,20 +3,14 @@
 
 var _right = keyboard_check(imputs.right)
 var _left =  keyboard_check(imputs.left)
-var _jump = keyboard_check(imputs.jump)
+var _up = keyboard_check(imputs.up)
+var _down = keyboard_check(imputs.down)
 var _troca = keyboard_check(imputs.troca)
 
 velh += (_right - _left) * vel; 
+velv += (_down - _up) * vel;
 
-var _no_chao = place_meeting(x,y + 1, obj_chao) 
-
-if (_no_chao){
-	if(_jump) {
-		velv = -velj;
-	}
-}else{
-	velv+= grav
-}
+//var _no_chao = place_meeting(x,y + 1, obj_chao) 
 
 if (pode_troca) {
 	if (_troca) {

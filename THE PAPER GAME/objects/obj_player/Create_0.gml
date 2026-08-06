@@ -10,7 +10,8 @@ pode_troca = true
 imputs = {
 	left	:	ord("A"),
 	right	:	ord("D"),
-	jump	:	ord("W"),
-	troca	:	ord("S")
+	up	:	ord("W"),
+	down : ord("S"),
+	troca	:	ord("F")
 }
 global.estado = "floresta";
