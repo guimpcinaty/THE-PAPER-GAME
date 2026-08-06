@@ -1,13 +1,13 @@
 
 if (keyboard_check(ord("S"))){
 if (global.estado == "floresta") {
-		sprite_index = spr_casa_cidade;
+		sprite_index = spr_casa_floresta;
 }
 if (global.estado == "cidade") {
-		sprite_index = spr_casa_cemiterio;
+		sprite_index = spr_casa_cidade;
 }
 if (global.estado == "cemiterio") {
-		sprite_index = spr_casa_floresta;
+		sprite_index = spr_casa_cemiterio;
 		global.ciclos++;
 }
 }
