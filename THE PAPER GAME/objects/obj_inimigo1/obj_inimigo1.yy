@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_carpinteiro",
+  "%Name":"obj_inimigo1",
   "eventList":[],
   "managed":true,
-  "name":"obj_carpinteiro",
+  "name":"obj_inimigo1",
   "overriddenProperties":[],
   "parent":{
-    "name":"OBJETOS",
-    "path":"folders/OBJETOS.yy",
+    "name":"ENTIDADES",
+    "path":"folders/OBJETOS/ENTIDADES.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_carpinteiro",
-    "path":"sprites/spr_carpinteiro/spr_carpinteiro.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
