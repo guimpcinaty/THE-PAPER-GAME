@@ -2,6 +2,10 @@
 vida_max = global.vida_inm * 2;
 vida = vida_max;
 
+dano = global.dano_inm;
+
+vel = 2
+
 estado = global.estado; 
 
 atk = false; 
@@ -11,3 +15,6 @@ atkou = false
 
 xoriginal = x 
 yoriginal = y 
+
+image_xscale = 0.15625
+image_yscale = 0.15625

@@ -7,11 +7,22 @@ grav = .5;
 
 pode_troca = true
 
+// Create Event do obj_player
+pode_atacar = true;
+cooldown_ataque = 20; // Tempo em frames entre os ataques
+olhar_direcao = 0;
+
 imputs = {
 	left	:	ord("A"),
 	right	:	ord("D"),
-	up	:	ord("W"),
-	down : ord("S"),
-	troca	:	ord("F")
+	up		:	ord("W"),
+	down	:	ord("S"),
+	troca	:	ord("F"),
 }
+
+// Create Event do obj_player
+pode_atacar = true;
+cooldown_ataque = 20; // Tempo em frames entre os ataques
+olhar_direcao = 0;
+
 global.estado = "floresta";
