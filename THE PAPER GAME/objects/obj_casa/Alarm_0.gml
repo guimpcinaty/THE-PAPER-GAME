@@ -1,0 +1,2 @@
+
+pode_troca = true; 

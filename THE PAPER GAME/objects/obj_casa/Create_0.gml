@@ -6,3 +6,5 @@ vida = vida_max
 
 tempo = global.tempo_jogo;
 frames = global.frames;
+
+pode_troca = true
