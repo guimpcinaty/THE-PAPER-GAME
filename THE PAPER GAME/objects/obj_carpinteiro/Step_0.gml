@@ -15,6 +15,6 @@ if (estado == "floresta") {
 		if (collision_point(x,y,obj_casa,false,false)){
 			obj_casa.vida -= global.dano_inm * 2;
 		}
-		alarm[0] = atk_cooldown
+		alarm[0] = atk_cooldown;
 	}
 }
