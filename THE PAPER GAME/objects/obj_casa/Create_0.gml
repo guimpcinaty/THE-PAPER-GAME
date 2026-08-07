@@ -7,4 +7,6 @@ vida = vida_max
 tempo = global.tempo_jogo;
 frames = global.frames;
 
+invencivel = false;
+
 pode_troca = true

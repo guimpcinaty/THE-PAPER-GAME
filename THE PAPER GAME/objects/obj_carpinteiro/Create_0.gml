@@ -7,3 +7,4 @@ estado = global.estado;
 atk = false; 
 tempo_atk = 120; 
 atk_cooldown = 120;
+atkou = false
