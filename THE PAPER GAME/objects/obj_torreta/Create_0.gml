@@ -9,8 +9,6 @@ atk = 10
 
 pode_atk = true
 
-
-
 image_xscale = 0.375
 image_yscale = 0.375
 
