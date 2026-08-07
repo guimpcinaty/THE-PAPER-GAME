@@ -46,7 +46,7 @@
     {"id":{"name":"scr_trocar_estado","path":"scripts/scr_trocar_estado/scr_trocar_estado.yy",},},
     {"id":{"name":"scr_trocar_sprite","path":"scripts/scr_trocar_sprite/scr_trocar_sprite.yy",},},
     {"id":{"name":"spr_arvore","path":"sprites/spr_arvore/spr_arvore.yy",},},
-    {"id":{"name":"spr_barrinha_voda","path":"sprites/spr_barrinha_voda/spr_barrinha_voda.yy",},},
+    {"id":{"name":"spr_barrinha_vida","path":"sprites/spr_barrinha_vida/spr_barrinha_vida.yy",},},
     {"id":{"name":"spr_carpinteiro","path":"sprites/spr_carpinteiro/spr_carpinteiro.yy",},},
     {"id":{"name":"spr_casa_cemiterio","path":"sprites/spr_casa_cemiterio/spr_casa_cemiterio.yy",},},
     {"id":{"name":"spr_casa_cidade","path":"sprites/spr_casa_cidade/spr_casa_cidade.yy",},},
