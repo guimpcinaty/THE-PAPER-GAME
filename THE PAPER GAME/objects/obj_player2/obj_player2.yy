@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_chao",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_player2",
+  "eventList":[],
   "managed":true,
-  "name":"obj_chao",
+  "name":"obj_player2",
   "overriddenProperties":[],
   "parent":{
     "name":"OBJETOS",
@@ -28,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_fundo",
-    "path":"sprites/spr_fundo/spr_fundo.yy",
+    "name":"spr_player2",
+    "path":"sprites/spr_player2/spr_player2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

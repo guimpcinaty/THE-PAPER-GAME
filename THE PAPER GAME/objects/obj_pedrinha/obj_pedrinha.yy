@@ -1,18 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_chao",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_pedrinha",
+  "eventList":[],
   "managed":true,
-  "name":"obj_chao",
+  "name":"obj_pedrinha",
   "overriddenProperties":[],
   "parent":{
     "name":"OBJETOS",
     "path":"folders/OBJETOS.yy",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_fundo",
-    "path":"sprites/spr_fundo/spr_fundo.yy",
+    "name":"spr_pedrinha",
+    "path":"sprites/spr_pedrinha/spr_pedrinha.yy",
   },
   "spriteMaskId":null,
   "visible":true,

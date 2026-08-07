@@ -19,4 +19,4 @@ if (pode_troca) {
 		alarm[0] = 15;
 	}
 }
-if (keyboard_check_pressed(_right)) image_xscale = -1 else image_xscale = 1
+//if (keyboard_check_pressed(_right)) image_xscale = -1 else image_xscale = 1
