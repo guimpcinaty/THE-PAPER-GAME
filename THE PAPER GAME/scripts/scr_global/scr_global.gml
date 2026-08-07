@@ -11,3 +11,4 @@ global.dano_inm = 10
 global.tempo_jogo = 60
 global.frames = 0
 global.qtd_torretas = 0
+global.alteracoes = 0

@@ -3,6 +3,7 @@ draw_set_font(fnt_grande)
 draw_set_color(c_black)
 draw_text(64,64,string(tempo))
 draw_text(64,96,string(global.estado))
+draw_text(64,128,"cosncequencias: " + string(global.alteracoes))
 
 var posX = 608;
 var posY = 64;

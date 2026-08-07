@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_inimigo1",
+  "%Name":"obj_inimigo_pai",
   "eventList":[],
   "managed":true,
-  "name":"obj_inimigo1",
+  "name":"obj_inimigo_pai",
   "overriddenProperties":[],
   "parent":{
     "name":"INIMIGOS",
     "path":"folders/OBJETOS/ENTIDADES/INIMIGOS.yy",
   },
-  "parentObjectId":{
-    "name":"obj_inimigo_pai",
-    "path":"objects/obj_inimigo_pai/obj_inimigo_pai.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
