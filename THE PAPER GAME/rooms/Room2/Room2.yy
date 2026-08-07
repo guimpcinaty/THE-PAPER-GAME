@@ -21,7 +21,6 @@
     {"name":"inst_21E0BE63","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_7050A018","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_20B9DB6C","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_29CC0371","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_74730891","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_D741617","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_3A78F84E","path":"rooms/Room2/Room2.yy",},
