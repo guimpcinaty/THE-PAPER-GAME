@@ -10,9 +10,9 @@ if (atk > 0){
 	pode_atk = false;
 	alarm[0] = 30
 	if (x > obj_carpinteiro.x) {
-		image_xscale = -0.375
+		image_xscale = -0.3
 	}else{
-		image_xscale = 0.375
+		image_xscale = 0.3
 	}
 	}
 }
