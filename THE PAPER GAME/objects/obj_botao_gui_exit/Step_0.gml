@@ -8,5 +8,7 @@ tween(obj_botao_gui_exit, "image_xscale", 1.5, tween_animation.elastic, 45);
 tween(obj_botao_gui_exit, "image_yscale", 1.5, tween_animation.elastic, 45);
 }else{
 	grande = false;
+	image_xscale = 1;
+	image_yscale = 1;
 }
 }
