@@ -16,7 +16,10 @@
     "name":"OBJETOS",
     "path":"folders/OBJETOS.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_botao",
+    "path":"objects/obj_botao/obj_botao.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

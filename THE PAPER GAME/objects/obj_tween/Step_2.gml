@@ -1,15 +1,16 @@
+// Evento STEP 2 do obj_tween (Código corrigido) sou sigma eu acho
 
-//Se meu alvo não existe, eu me destruo
-if (!instance_exists(object)) instance_destroy();
-with(object){
-	other.percent += 1/other.time;
-	other.percent = clamp(other.percent, 0, 1)
-	other.position = animcurve_channel_evaluate(other.anim_curve, other.percent);
-	if(other.percent < 1){
-		self[$ other.variable_name] = other.base_value + (other.value - other.base_value) * other.position;
-	} else {
-		self[$ other.variable_name] = other.value;
-		if(other.callback != -1) other.callback();
-		instance_destroy(other);
-	}
+percent += 1 / time;
+
+position = animcurve_channel_evaluate(anim_curve, percent);
+
+if (instance_exists(object)) {
+    object[$ variable_name] = base_value + (value - base_value) * position;
+}
+
+if (percent >= 1) {
+    if (script_exists(callback)) {
+        script_execute(callback);
+    }
+    instance_destroy();
 }
