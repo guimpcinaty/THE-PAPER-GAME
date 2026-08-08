@@ -1,4 +1,6 @@
-
+global.som_atual = -1;
+global.estado = "floresta";
+global.ciclos = 0;
 vel = 0.5;
 velj = 10;
 velv = 0;
