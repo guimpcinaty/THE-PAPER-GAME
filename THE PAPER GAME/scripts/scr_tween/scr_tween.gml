@@ -19,7 +19,7 @@ enum tween_animation {
 	bounce_in,  bounce_out,  bounce_inout
 }
 
-function tween(_object, _variable_name, _value, _animation = tween_animation.back, _time = game_get_speed(speed), _callback = -1){
+function tween(_object, _variable_name, _value, _animation = tween_animation.back, _time = game_get_speed(gamespeed_fps), _callback = -1){
 	//Mesma ordem do que foi criado em cima
 	static _anim_names = [
 		"back", "flat", "elastic", "bounce", "ease",
@@ -46,18 +46,20 @@ function tween(_object, _variable_name, _value, _animation = tween_animation.bac
 			instance_destroy();
 		}
 	}
+
 	// Nenhum tween ativo e a variável já está no destino só morre
 	if (_object[$ _variable_name] == _value) return noone;
 
 	var _tween = instance_create_depth(x, y, depth, obj_tween, {
-			object: _object,
-			variable_name: _variable_name,
-			value: _value,
-			animation: _anim,
-			time: _time,
-			anim_curve: animcurve_get_channel(tween_curves, _anim),
-			callback: _callback
-		});
+		object: _object,
+		variable_name: _variable_name,
+		value: _value,
+		animation: _anim,
+		time: _time,
+		anim_curve: animcurve_get_channel(tween_curves, _anim),
+		callback: _callback,
+		base_value: _object[$ _variable_name] ?? 0
+	});
 
 	return _tween;
 }
