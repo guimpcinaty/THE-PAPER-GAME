@@ -33,6 +33,8 @@ if (estado == "floresta") {
 	}
 }else if (estado == "cemiterio") {
 	sprite_index = spr_mimico;
+	image_xscale =0.085
+	image_yscale =0.085
 	vel = 0;
 	if(!atk) {
 		atk = true;
