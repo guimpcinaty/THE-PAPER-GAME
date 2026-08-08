@@ -72,6 +72,7 @@
     {"id":{"name":"spr_noz_inm","path":"sprites/spr_noz_inm/spr_noz_inm.yy",},},
     {"id":{"name":"spr_noz","path":"sprites/spr_noz/spr_noz.yy",},},
     {"id":{"name":"spr_pedrinha_cemiterio","path":"sprites/spr_pedrinha_cemiterio/spr_pedrinha_cemiterio.yy",},},
+    {"id":{"name":"spr_pedrinha_cidade","path":"sprites/spr_pedrinha_cidade/spr_pedrinha_cidade.yy",},},
     {"id":{"name":"spr_pedrinha","path":"sprites/spr_pedrinha/spr_pedrinha.yy",},},
     {"id":{"name":"spr_player2","path":"sprites/spr_player2/spr_player2.yy",},},
     {"id":{"name":"spr_torreta","path":"sprites/spr_torreta/spr_torreta.yy",},},

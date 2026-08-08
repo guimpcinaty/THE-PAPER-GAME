@@ -1,0 +1,2 @@
+
+scr_trocar_sprite(spr_pedrinha_cemiterio,spr_pedrinha,spr_pedrinha_cidade);
