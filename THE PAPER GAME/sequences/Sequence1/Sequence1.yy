@@ -26,8 +26,8 @@
   },
   "name":"Sequence1",
   "parent":{
-    "name":"SEQUENCES",
-    "path":"folders/SEQUENCES.yy",
+    "name":"ROOMS",
+    "path":"folders/ROOMS.yy",
   },
   "playback":0,
   "playbackSpeed":60.0,
