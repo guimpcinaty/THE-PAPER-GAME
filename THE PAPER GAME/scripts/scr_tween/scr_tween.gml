@@ -50,16 +50,13 @@ function tween(_object, _variable_name, _value, _animation = tween_animation.bac
 	// Nenhum tween ativo e a variável já está no destino só morre
 	if (_object[$ _variable_name] == _value) return noone;
 
-	var _tween = instance_create_depth(x, y, depth, obj_tween, {
-		object: _object,
-		variable_name: _variable_name,
-		value: _value,
-		animation: _anim,
-		time: _time,
-		anim_curve: animcurve_get_channel(tween_curves, _anim),
-		callback: _callback,
-		base_value: _object[$ _variable_name] ?? 0
-	});
-
+	var _tween = instance_create_depth(x, y, depth, obj_tween);
+	_tween.object			=	_object;
+	_tween.variable_name	=	_variable_name;
+	_tween.value			=	_value;
+	_tween.animation		=	_animation;
+	_tween.time				=	_time;
+	_tween.anim_curve		=	animcurve_get_channel(tween_curves, _anim);
+	_tween.callback			=	_callback;
 	return _tween;
 }
