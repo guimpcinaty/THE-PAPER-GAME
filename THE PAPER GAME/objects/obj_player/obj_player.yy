@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite36",
-    "path":"sprites/Sprite36/Sprite36.yy",
+    "name":"Spr_player_iddle",
+    "path":"sprites/Spr_player_iddle/Spr_player_iddle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

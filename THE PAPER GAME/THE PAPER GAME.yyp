@@ -89,6 +89,7 @@
     {"id":{"name":"rm_exemplo_botoes","path":"rooms/rm_exemplo_botoes/rm_exemplo_botoes.yy",},},
     {"id":{"name":"rm_exemplo_curvas","path":"rooms/rm_exemplo_curvas/rm_exemplo_curvas.yy",},},
     {"id":{"name":"rm_exemplos","path":"rooms/rm_exemplos/rm_exemplos.yy",},},
+    {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
     {"id":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
     {"id":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
     {"id":{"name":"scr_botao","path":"scripts/scr_botao/scr_botao.yy",},},
@@ -149,6 +150,7 @@
     {"roomId":{"name":"rm_exemplo_curvas","path":"rooms/rm_exemplo_curvas/rm_exemplo_curvas.yy",},},
     {"roomId":{"name":"rm_exemplos","path":"rooms/rm_exemplos/rm_exemplos.yy",},},
     {"roomId":{"name":"rm_exemplo_botoes","path":"rooms/rm_exemplo_botoes/rm_exemplo_botoes.yy",},},
+    {"roomId":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
