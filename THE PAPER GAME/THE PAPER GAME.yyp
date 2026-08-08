@@ -113,6 +113,7 @@
     {"id":{"name":"spr_barra_fundo","path":"sprites/spr_barra_fundo/spr_barra_fundo.yy",},},
     {"id":{"name":"spr_barrinha_vida","path":"sprites/spr_barrinha_vida/spr_barrinha_vida.yy",},},
     {"id":{"name":"spr_botao_gui","path":"sprites/spr_botao_gui/spr_botao_gui.yy",},},
+    {"id":{"name":"spr_carpinteiro_esqueleto","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},},
     {"id":{"name":"spr_carpinteiro","path":"sprites/spr_carpinteiro/spr_carpinteiro.yy",},},
     {"id":{"name":"spr_casa_cemiterio","path":"sprites/spr_casa_cemiterio/spr_casa_cemiterio.yy",},},
     {"id":{"name":"spr_casa_cidade","path":"sprites/spr_casa_cidade/spr_casa_cidade.yy",},},

@@ -20,7 +20,6 @@ if (instance_exists(obj_torreta)){
 }
 
 if (estado == "floresta") {
-	image_blend = c_white;
 	sprite_index = spr_carpinteiro;
 	if (!atk) {
 		atk = true;
@@ -33,7 +32,7 @@ if (estado == "floresta") {
 	}
 }
 if (estado == "cidade") {
-	image_blend = c_dkgrey;
+	
 	vel = 0;
 	if(!atk) {
 		atk = true
@@ -43,7 +42,7 @@ if (estado == "cidade") {
 	}
 }
 if (estado == "cemiterio") {
-	image_blend = c_aqua;
-	vel = 4 ; 
+	sprite_index = spr_carpinteiro_esqueleto;
+	vel = 4;
 	dano = 3;
 }
