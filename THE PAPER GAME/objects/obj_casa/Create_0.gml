@@ -1,4 +1,4 @@
-
+//casalegal 123
 vida_max = global.vida_esp;
 vida = vida_max 
 //image_xscale = 3;
