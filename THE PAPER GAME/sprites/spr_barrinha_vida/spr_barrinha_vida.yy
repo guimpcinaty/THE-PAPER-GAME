@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":70,
   "bbox_left":0,
-  "bbox_right":201,
+  "bbox_right":354,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,18 +12,18 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"3982fe75-90b6-4999-aa86-a4f298f190ab","name":"3982fe75-90b6-4999-aa86-a4f298f190ab","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"731b5079-7195-45bc-92b4-9d9c34239472","name":"731b5079-7195-45bc-92b4-9d9c34239472","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":71,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"cf10cf2a-07ab-4e59-a114-a62867f27f7a","blendMode":0,"displayName":"default","isLocked":false,"name":"cf10cf2a-07ab-4e59-a114-a62867f27f7a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"8ede244e-8193-4ecc-b0c7-ee09e936f0a2","blendMode":0,"displayName":"default","isLocked":false,"name":"8ede244e-8193-4ecc-b0c7-ee09e936f0a2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_barrinha_vida",
   "nineSlice":null,
-  "origin":9,
+  "origin":4,
   "parent":{
     "name":"SPRITES",
     "path":"folders/SPRITES.yy",
@@ -69,14 +69,14 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3982fe75-90b6-4999-aa86-a4f298f190ab","path":"sprites/spr_barrinha_vida/spr_barrinha_vida.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"501fdcfc-352a-4cc5-9ad1-3f272391425a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"731b5079-7195-45bc-92b4-9d9c34239472","path":"sprites/spr_barrinha_vida/spr_barrinha_vida.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5d4e4315-f90d-4a4a-8fec-4dcff8359046","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":281,
-    "yorigin":181,
+    "xorigin":177,
+    "yorigin":35,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":202,
+  "width":355,
 }
