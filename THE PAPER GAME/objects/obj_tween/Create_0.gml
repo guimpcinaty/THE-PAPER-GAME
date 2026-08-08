@@ -1,10 +1,10 @@
-
-percent    = 0;
-position   = 0;
-base_value = 0;
-
-call_later(1, time_source_units_frames, function(){
-    if (instance_exists(object)) {
-        base_value = object[$ variable_name] ?? 0;
-    }
-});
+object        = noone;
+variable_name = "";
+value         = 0;
+animation     = "";
+time          = game_get_speed(gamespeed_fps);
+anim_curve    = -1;
+callback      = -1;
+base_value    = 0;
+percent       = 0;
+position      = 0;
