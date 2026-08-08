@@ -3,4 +3,4 @@ image_yscale =0.075
 
 dono = noone;
 dano = global.dano_esp/global.qtd_torretas;
-vel = 2.5;
+vel = 4.5;
