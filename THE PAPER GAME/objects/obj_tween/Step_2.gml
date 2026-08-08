@@ -1,4 +1,3 @@
-// Evento STEP 2 do obj_tween (Código corrigido) sou sigma eu acho
 
 percent += 1 / time;
 
