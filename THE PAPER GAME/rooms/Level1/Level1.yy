@@ -28,6 +28,9 @@
     {"name":"inst_1B42B4BF","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_10EBDDFE","path":"rooms/Level1/Level1.yy",},
     {"name":"inst_6007FE5D","path":"rooms/Level1/Level1.yy",},
+    {"name":"inst_5629FE82","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_275EC0E4","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_67A95E4F","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
