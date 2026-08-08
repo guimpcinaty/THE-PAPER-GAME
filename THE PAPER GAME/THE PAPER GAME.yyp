@@ -63,6 +63,7 @@
     {"id":{"name":"spr_casa_cemiterio","path":"sprites/spr_casa_cemiterio/spr_casa_cemiterio.yy",},},
     {"id":{"name":"spr_casa_cidade","path":"sprites/spr_casa_cidade/spr_casa_cidade.yy",},},
     {"id":{"name":"spr_casa_floresta","path":"sprites/spr_casa_floresta/spr_casa_floresta.yy",},},
+    {"id":{"name":"spr_fundo_menu","path":"sprites/spr_fundo_menu/spr_fundo_menu.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
     {"id":{"name":"spr_fundo1","path":"sprites/spr_fundo1/spr_fundo1.yy",},},
     {"id":{"name":"spr_fundo2","path":"sprites/spr_fundo2/spr_fundo2.yy",},},
