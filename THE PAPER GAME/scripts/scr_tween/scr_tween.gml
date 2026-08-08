@@ -19,7 +19,7 @@ enum tween_animation {
 	bounce_in,  bounce_out,  bounce_inout
 }
 
-function tween(_object, _variable_name, _value, _animation = tween_animation.back, _time = room_speed, _callback = -1){
+function tween(_object, _variable_name, _value, _animation = tween_animation.back, _time = game_get_speed(gamespeed_fps), _callback = -1){
 	//Mesma ordem do que foi criado em cima
 	static _anim_names = [
 		"back", "flat", "elastic", "bounce", "ease",
@@ -60,3 +60,4 @@ function tween(_object, _variable_name, _value, _animation = tween_animation.bac
 	_tween.callback			=	_callback;
 	return _tween;
 }
+// feather ignore GM2064
