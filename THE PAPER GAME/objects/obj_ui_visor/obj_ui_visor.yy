@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_botao_Gui",
+  "%Name":"obj_ui_visor",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_botao_Gui",
+  "name":"obj_ui_visor",
   "overriddenProperties":[],
   "parent":{
     "name":"OBJETOS",
@@ -27,15 +25,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v2","%Name":"funcao","filters":[],"listItems":[],"multiselect":false,"name":"funcao","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"play\"","varType":2,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_botao_gui",
-    "path":"sprites/spr_botao_gui/spr_botao_gui.yy",
+    "name":"spr_art",
+    "path":"sprites/spr_art/spr_art.yy",
   },
   "spriteMaskId":null,
   "visible":true,

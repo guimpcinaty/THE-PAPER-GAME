@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Object19",
-  "eventList":[],
+  "%Name":"obj_difficulty_button",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object19",
+  "name":"obj_difficulty_button",
   "overriddenProperties":[],
   "parent":{
-    "name":"OBJETOS",
-    "path":"folders/OBJETOS.yy",
+    "name":"CONFIG.",
+    "path":"folders/OBJETOS/CONFIG..yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_botao_gui",
+    "path":"sprites/spr_botao_gui/spr_botao_gui.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

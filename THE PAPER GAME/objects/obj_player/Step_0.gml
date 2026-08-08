@@ -1,7 +1,7 @@
 
-//if (!audio_is_playing(snd_intro) && !audio_is_playing(snd_loop)){
-	//audio_play_sound(snd_loop,1,true)
-//}
+if (!audio_is_playing(snd_intro) && !audio_is_playing(snd_loop)){
+	audio_play_sound(snd_loop,1,true)
+}
 
 var _right = keyboard_check(imputs.right)
 var _left =  keyboard_check(imputs.left)
