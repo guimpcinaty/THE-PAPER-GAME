@@ -12,7 +12,7 @@ var _troca = keyboard_check(imputs.troca)
 velh += (_right - _left) * vel; 
 velv += (_down - _up) * vel;
 
-if (_right) ang_tiro = 0
+if (_right || _up || _down || _left) sprite_index = spr_player2
 
 //var _no_chao = place_meeting(x,y + 1, obj_chao) 
 
