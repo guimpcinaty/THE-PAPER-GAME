@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_pedrinha",
+  "%Name":"spr_pedrinha_cidade",
   "bboxMode":0,
   "bbox_bottom":681,
   "bbox_left":286,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"872eed9c-7375-45ac-9bef-9e73d0f37a5f","blendMode":0,"displayName":"default","isLocked":false,"name":"872eed9c-7375-45ac-9bef-9e73d0f37a5f","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_pedrinha",
+  "name":"spr_pedrinha_cidade",
   "nineSlice":null,
   "origin":9,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_pedrinha",
+    "%Name":"spr_pedrinha_cidade",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_pedrinha",
+    "name":"spr_pedrinha_cidade",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa4af8e5-516f-4ed9-8652-294d0524ddfd","path":"sprites/spr_pedrinha/spr_pedrinha.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"aa4af8e5-516f-4ed9-8652-294d0524ddfd","path":"sprites/spr_pedrinha_cidade/spr_pedrinha_cidade.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ffa3bd25-4bcf-43b4-b1c5-2e4f1d6e4aad","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

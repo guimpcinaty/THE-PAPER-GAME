@@ -15,8 +15,8 @@ var altura_sprite = sprite_get_height(spr_barrinha_vida);
 var porcentagem = vida / vida_max;
 var largura_corte = largura_sprite * porcentagem;
 
-var offset_x = 60;		
-var offset_y = 15;		
+var offset_x = 200;		
+var offset_y = 80;		
 
 draw_sprite_part(spr_barrinha_vida, 0, 0, 0, largura_corte, altura_sprite, posX-offset_x, posY-offset_y	);
 
