@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_arvore_nao_queimar",
+  "%Name":"obj_arvore_queimando",
   "eventList":[],
   "managed":true,
-  "name":"obj_arvore_nao_queimar",
+  "name":"obj_arvore_queimando",
   "overriddenProperties":[],
   "parent":{
     "name":"OBJETOS",
