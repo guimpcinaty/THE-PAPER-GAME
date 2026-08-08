@@ -1,5 +1,7 @@
 
-
+//if (!audio_is_playing(snd_intro) && !audio_is_playing(snd_loop)){
+	//audio_play_sound(snd_loop,1,true)
+//}
 
 var _right = keyboard_check(imputs.right)
 var _left =  keyboard_check(imputs.left)
@@ -32,7 +34,7 @@ if (mouse_check_button_pressed(mb_left) && pode_atacar) {
     alarm[1] = cooldown_ataque; // Alarme para liberar o próximo ataque
     
     // Cria a hitbox exatamente na posição do player
-    var inst = instance_create_layer(x, y, layer, obj_atk_player);
+    var inst = instance_create_layer(mouse_x, mouse_y, layer, obj_atk_player);
     inst.dono = id; // Passa o ID do player para a hitbox seguir
     inst.image_angle = olhar_direcao; // Rotaciona o sprite do ataque
 }
