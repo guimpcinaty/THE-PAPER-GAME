@@ -1,0 +1,2 @@
+alvos = []; 
+ativo = false; 
