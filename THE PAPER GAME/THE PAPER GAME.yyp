@@ -46,6 +46,7 @@
   "resources":[
     {"id":{"name":"tween_curves","path":"animcurves/tween_curves/tween_curves.yy",},},
     {"id":{"name":"fnt_exemplo_botao","path":"fonts/fnt_exemplo_botao/fnt_exemplo_botao.yy",},},
+    {"id":{"name":"fnt_grande_grande","path":"fonts/fnt_grande_grande/fnt_grande_grande.yy",},},
     {"id":{"name":"fnt_grande","path":"fonts/fnt_grande/fnt_grande.yy",},},
     {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"obj_arvore_queimando","path":"objects/obj_arvore_queimando/obj_arvore_queimando.yy",},},
