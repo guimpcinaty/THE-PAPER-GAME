@@ -4,6 +4,8 @@ draw_set_color(c_black)
 draw_text(64,64,string(tempo))
 draw_text(64,96,string(global.estado))
 draw_text(64,128,"cosncequencias: " + string(global.alteracoes))
+draw_sprite(spr_moeda,0,64,256)
+draw_text(64,250,string(global.moedas))
 
 draw_text(1024,64,"seu dano:" + string(global.dano_esp))
 draw_text(1024,96,"dano inimigos: " + string(global.dano_inm))
