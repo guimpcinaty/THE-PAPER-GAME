@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key_A",
+  "%Name":"aaa",
   "eventList":[],
   "managed":true,
-  "name":"obj_key_A",
+  "name":"aaa",
   "overriddenProperties":[],
   "parent":{
-    "name":"SPRITES",
-    "path":"folders/SPRITES.yy",
+    "name":"ROOMS",
+    "path":"folders/ROOMS.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_key_a",
-    "path":"sprites/spr_key_a/spr_key_a.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

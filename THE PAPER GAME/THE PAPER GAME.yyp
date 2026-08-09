@@ -49,6 +49,7 @@
     {"id":{"name":"fnt_grande_grande","path":"fonts/fnt_grande_grande/fnt_grande_grande.yy",},},
     {"id":{"name":"fnt_grande","path":"fonts/fnt_grande/fnt_grande.yy",},},
     {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
+    {"id":{"name":"aaa","path":"objects/aaa/aaa.yy",},},
     {"id":{"name":"obj_arvore_queimando","path":"objects/obj_arvore_queimando/obj_arvore_queimando.yy",},},
     {"id":{"name":"obj_atk_player","path":"objects/obj_atk_player/obj_atk_player.yy",},},
     {"id":{"name":"obj_ave","path":"objects/obj_ave/obj_ave.yy",},},
@@ -109,6 +110,7 @@
     {"id":{"name":"rm_exemplos","path":"rooms/rm_exemplos/rm_exemplos.yy",},},
     {"id":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
     {"id":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
+    {"id":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
     {"id":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
     {"id":{"name":"scr_botao","path":"scripts/scr_botao/scr_botao.yy",},},
     {"id":{"name":"scr_consequencia","path":"scripts/scr_consequencia/scr_consequencia.yy",},},
@@ -201,6 +203,7 @@
     {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
     {"roomId":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
     {"roomId":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
+    {"roomId":{"name":"rm_tutorial","path":"rooms/rm_tutorial/rm_tutorial.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
