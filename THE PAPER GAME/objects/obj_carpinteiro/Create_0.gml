@@ -6,6 +6,8 @@ dano = global.dano_inm;
 
 vel = 2
 
+invencivel = false;
+
 estado = global.estado; 
 
 atk = false; 
