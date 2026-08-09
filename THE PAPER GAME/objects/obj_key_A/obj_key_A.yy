@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key_A",
-    "path":"sprites/spr_key_A/spr_key_A.yy",
+    "name":"spr_key_a",
+    "path":"sprites/spr_key_a/spr_key_a.yy",
   },
   "spriteMaskId":null,
   "visible":true,

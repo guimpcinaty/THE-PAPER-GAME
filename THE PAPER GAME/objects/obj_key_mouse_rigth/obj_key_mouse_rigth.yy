@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key_mouse",
+  "%Name":"obj_key_mouse_rigth",
   "eventList":[],
   "managed":true,
-  "name":"obj_key_mouse",
+  "name":"obj_key_mouse_rigth",
   "overriddenProperties":[],
   "parent":{
-    "name":"SPRITES",
-    "path":"folders/SPRITES.yy",
+    "name":"THE PAPER GAME",
+    "path":"THE PAPER GAME.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_mb_right",
+    "path":"sprites/spr_mb_right/spr_mb_right.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

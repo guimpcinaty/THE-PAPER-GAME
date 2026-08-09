@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key_f",
+  "%Name":"obj_key_F",
   "eventList":[],
   "managed":true,
-  "name":"obj_key_f",
+  "name":"obj_key_F",
   "overriddenProperties":[],
   "parent":{
-    "name":"SPRITES",
-    "path":"folders/SPRITES.yy",
+    "name":"THE PAPER GAME",
+    "path":"THE PAPER GAME.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SpR_key_F",
-    "path":"sprites/SpR_key_F/SpR_key_F.yy",
+    "name":"spr_key_f",
+    "path":"sprites/spr_key_f/spr_key_f.yy",
   },
   "spriteMaskId":null,
   "visible":true,

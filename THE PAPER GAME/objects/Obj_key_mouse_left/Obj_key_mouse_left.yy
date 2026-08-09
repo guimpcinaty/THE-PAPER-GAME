@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key_D",
+  "%Name":"Obj_key_mouse_left",
   "eventList":[],
   "managed":true,
-  "name":"obj_key_D",
+  "name":"Obj_key_mouse_left",
   "overriddenProperties":[],
   "parent":{
     "name":"SPRITES",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key_d",
-    "path":"sprites/spr_key_d/spr_key_d.yy",
+    "name":"spr_mb_left",
+    "path":"sprites/spr_mb_left/spr_mb_left.yy",
   },
   "spriteMaskId":null,
   "visible":true,
