@@ -125,6 +125,7 @@
     {"id":{"name":"spr_botao_gui","path":"sprites/spr_botao_gui/spr_botao_gui.yy",},},
     {"id":{"name":"spr_carpinteiro_atk","path":"sprites/spr_carpinteiro_atk/spr_carpinteiro_atk.yy",},},
     {"id":{"name":"spr_carpinteiro_esqueleto","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},},
+    {"id":{"name":"spr_carpinteiro_robo","path":"sprites/spr_carpinteiro_robo/spr_carpinteiro_robo.yy",},},
     {"id":{"name":"spr_carpinteiro","path":"sprites/spr_carpinteiro/spr_carpinteiro.yy",},},
     {"id":{"name":"spr_casa_cemiterio","path":"sprites/spr_casa_cemiterio/spr_casa_cemiterio.yy",},},
     {"id":{"name":"spr_casa_cidade","path":"sprites/spr_casa_cidade/spr_casa_cidade.yy",},},
