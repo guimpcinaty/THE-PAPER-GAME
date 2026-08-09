@@ -1,15 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"Object46",
-  "eventList":[],
+  "%Name":"obj_vento",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object46",
+  "name":"obj_vento",
   "overriddenProperties":[],
   "parent":{
     "name":"SPRITES",
     "path":"folders/SPRITES.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_noz",
+    "path":"objects/obj_noz/obj_noz.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
