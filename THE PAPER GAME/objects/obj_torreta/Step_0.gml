@@ -1,5 +1,5 @@
 
-if (vida <= 0) instance_destroy(id);
+if (vida <= 0) instance_destroy();
 
 if (atk > 0){
 	atk--;

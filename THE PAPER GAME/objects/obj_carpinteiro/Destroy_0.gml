@@ -1,2 +1,4 @@
 
-instance_create_layer(x,y,"instances",obj_torreta)
+event_inherited();
+
+instance_create_layer(x,y,"instances",obj_torreta);

@@ -1,2 +1,2 @@
 
-instance_create_layer(x,y,layer,obj_arvore_queimando)
+room_goto(rm_game_over)
