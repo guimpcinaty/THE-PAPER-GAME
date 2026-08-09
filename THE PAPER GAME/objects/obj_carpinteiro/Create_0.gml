@@ -1,4 +1,4 @@
-
+	
 vida_max = global.vida_inm * 2;
 vida = vida_max;
 

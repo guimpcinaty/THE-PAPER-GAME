@@ -1,2 +1,9 @@
+atk = false;
 
-atk = false
+// Volta o sprite pro normal do estado atual
+if (estado == "floresta") {
+	sprite_index = spr_carpinteiro;
+} else if (estado == "cemiterio") {
+	sprite_index = spr_carpinteiro_esqueleto;
+}
+// "cidade" não troca sprite (segue o padrão que você já tinha)

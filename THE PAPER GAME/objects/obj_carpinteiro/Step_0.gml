@@ -1,6 +1,4 @@
-
 estado = global.estado
-
 if (vida == 0) instance_destroy();
 
 if (instance_exists(obj_torreta)){
@@ -20,7 +18,7 @@ if (instance_exists(obj_torreta)){
 }
 
 if (estado == "floresta") {
-	sprite_index = spr_carpinteiro;
+	if (!atk) sprite_index = spr_carpinteiro;
 	if (!atk) {
 		atk = true;
 		if (collision_point(x,y,obj_casa,false,false) && !obj_casa.invencivel){
@@ -32,7 +30,6 @@ if (estado == "floresta") {
 	}
 }
 if (estado == "cidade") {
-	
 	vel = 0;
 	if(!atk) {
 		atk = true
@@ -42,7 +39,12 @@ if (estado == "cidade") {
 	}
 }
 if (estado == "cemiterio") {
-	sprite_index = spr_carpinteiro_esqueleto;
+	if (!atk) sprite_index = spr_carpinteiro_esqueleto;
 	vel = 4;
 	dano = 3;
+}
+
+// Sobrescreve com o sprite de ataque, se estiver atacando
+if (atk) {
+	sprite_index = Spr_inimigo_atque;
 }
