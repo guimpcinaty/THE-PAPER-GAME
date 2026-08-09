@@ -5,6 +5,11 @@ draw_text(64,64,string(tempo))
 draw_text(64,96,string(global.estado))
 draw_text(64,128,"cosncequencias: " + string(global.alteracoes))
 
+draw_text(1024,64,"seu dano:" + string(global.dano_esp))
+draw_text(1024,96,"dano inimigos: " + string(global.dano_inm))
+draw_text(1024,128,"sua vida: " + string(global.vida_esp))
+draw_text(1024,160,"vida inimigos: " + string(global.vida_inm))
+
 var posX = 608;
 var posY = 64;
 
