@@ -30,6 +30,7 @@ if (estado == "floresta") {
 	}
 }
 if (estado == "cidade") {
+	sprite_index =spr_carpinteiro_robo
 	vel = 0;
 	if(!atk) {
 		atk = true
