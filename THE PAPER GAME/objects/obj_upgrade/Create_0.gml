@@ -1,4 +1,5 @@
 
+
 // Controle de status
 if (id != inst_EF1C5AC){
 ativo = false;    
@@ -16,4 +17,8 @@ max_level = 5;      // Nível máximo do nó
 tan_linha = 0;      // Tamanho inicial da linha de conexão
 
 
+
+
+alvos = []; 
+ativo = false; 
 
