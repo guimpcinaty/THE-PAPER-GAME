@@ -1,2 +1,1 @@
-
-atk  = false;
+atk = false;

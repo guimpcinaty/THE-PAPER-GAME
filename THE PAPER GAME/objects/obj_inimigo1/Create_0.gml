@@ -1,20 +1,14 @@
-image_xscale = 0.085
-image_yscale = 0.085
+image_xscale = 0.085;
+image_yscale = 0.085;
 vida_max = global.vida_inm;
 vida = vida_max;
-
 dano = global.dano_inm;
-
-vel = 2
-
+vel = 2;
 invencivel = false;
-
-estado = global.estado; 
-
-atk = false; 
-tempo_atk = 120; 
+estado = global.estado;
+atk = false;
+tempo_atk = 120;
 atk_cooldown = 120;
-atkou = false
-
-xoriginal = x 
-yoriginal = y 
+atkou = false;
+xoriginal = x;
+yoriginal = y;

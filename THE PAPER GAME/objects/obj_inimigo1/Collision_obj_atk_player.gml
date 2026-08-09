@@ -1,6 +1,5 @@
-
 if (!invencivel) {
-	vida -= other.dano
+	vida -= other.dano;
 	invencivel = true;
-	alarm[1] = 10
+	alarm[1] = 10;
 }
