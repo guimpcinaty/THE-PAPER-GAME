@@ -10,7 +10,7 @@ if (atk > 0){
 	_tiro.image_angle = point_direction(x,y,alvo.x,alvo.y);
 	_tiro.dono = id
 	pode_atk = false;
-	alarm[0] = 60;
+	alarm[0] = 30;
 	if (x > obj_inimigo_pai.x) {
 		image_xscale = -0.3
 	}else{

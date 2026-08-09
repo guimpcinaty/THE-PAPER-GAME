@@ -1,6 +1,6 @@
 image_xscale = 0.085;
 image_yscale = 0.085;
-vida_max = global.vida_inm;
+vida_max = 10;
 vida = vida_max;
 dano = global.dano_inm;
 vel = 2;

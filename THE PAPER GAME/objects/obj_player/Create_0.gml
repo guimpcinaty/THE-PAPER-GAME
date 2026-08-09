@@ -23,3 +23,4 @@ imputs = {
 	down	:	ord("S"),
 	troca	:	ord("F"),
 }
+

@@ -5,3 +5,4 @@ if (dono != -1){
 sprite_index = spr_queimar;
 alarm[0] = 60;
 }
+
