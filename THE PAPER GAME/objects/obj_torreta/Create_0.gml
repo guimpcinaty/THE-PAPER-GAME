@@ -1,4 +1,10 @@
 
+chance = global.qtd_torretas/global.moedas * 100;
+
+if (chance >= 20) {
+	instance_destroy();
+}
+
 global.qtd_torretas++;
 vida_max = global.vida_esp/global.qtd_torretas;
 vida = vida_max 
