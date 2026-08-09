@@ -1,7 +1,3 @@
-
-
-
-
-if (ativo == true) 
+if (!ativo) exit;
 
 draw_self();
