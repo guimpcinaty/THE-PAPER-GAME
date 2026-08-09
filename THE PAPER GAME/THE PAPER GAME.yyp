@@ -122,6 +122,7 @@
     {"id":{"name":"spr_barra_fundo","path":"sprites/spr_barra_fundo/spr_barra_fundo.yy",},},
     {"id":{"name":"spr_barrinha_vida","path":"sprites/spr_barrinha_vida/spr_barrinha_vida.yy",},},
     {"id":{"name":"spr_botao_gui","path":"sprites/spr_botao_gui/spr_botao_gui.yy",},},
+    {"id":{"name":"spr_carpinteiro_atk","path":"sprites/spr_carpinteiro_atk/spr_carpinteiro_atk.yy",},},
     {"id":{"name":"spr_carpinteiro_esqueleto","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},},
     {"id":{"name":"spr_carpinteiro","path":"sprites/spr_carpinteiro/spr_carpinteiro.yy",},},
     {"id":{"name":"spr_casa_cemiterio","path":"sprites/spr_casa_cemiterio/spr_casa_cemiterio.yy",},},
@@ -162,7 +163,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
     {"roomId":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
     {"roomId":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
@@ -172,6 +172,7 @@
     {"roomId":{"name":"rm_game_over","path":"rooms/rm_game_over/rm_game_over.yy",},},
     {"roomId":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
     {"roomId":{"name":"Level3","path":"rooms/Level3/Level3.yy",},},
+    {"roomId":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -24,6 +24,7 @@ if (estado == "floresta") {
 	if (!atk) {
 		atk = true;
 		if (collision_point(x,y,obj_casa,false,false) && !obj_casa.invencivel){
+			sprite_index = spr_carpinteiro_atk;
 			obj_casa.vida -= dano;
 			invencivel = true
 			obj_casa.alarm[1] = 30;
