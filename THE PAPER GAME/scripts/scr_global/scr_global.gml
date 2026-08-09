@@ -2,6 +2,11 @@ function scr_global(){
 
 }
 
+global.esquilo = 0;
+global.ave = 0;
+global.touro = 0;
+global.casa = 1;
+
 global.estado = ""
 global.ciclos = 0
 global.vida_esp = 100
