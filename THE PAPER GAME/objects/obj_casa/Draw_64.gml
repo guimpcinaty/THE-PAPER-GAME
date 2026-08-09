@@ -27,5 +27,5 @@ var offset_y = 80;
 
 draw_sprite_part(spr_barrinha_vida, 0, 0, 0, largura_corte, altura_sprite, posX-offset_x, posY-offset_y	);
 
-draw_text(posX,posY,string(room))
+draw_text(posX,posY,"VIDA")
 

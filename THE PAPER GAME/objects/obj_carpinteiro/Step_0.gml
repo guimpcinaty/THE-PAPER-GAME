@@ -18,7 +18,7 @@ if (instance_exists(obj_torreta)){
 }
 
 if (estado == "floresta") {
-	sprite_index = spr_carpinteiro;
+	sprite_index = Spr_inimigo_atque;
 	if (!atk) {
 		atk = true;
 		if (collision_point(x,y,obj_casa,false,false) && !obj_casa.invencivel){
@@ -43,4 +43,10 @@ if (estado == "cemiterio") {
 	if (!atk) sprite_index = spr_carpinteiro_esqueleto;
 	vel = 4;
 	dano = 3;
+}
+
+if (x >= obj_casa.x) {
+	image_xscale = 0.15625
+}else{
+	image_xscale = -0.15625
 }
