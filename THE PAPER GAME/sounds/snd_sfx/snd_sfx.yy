@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_cidade",
+  "%Name":"snd_sfx",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,9 +10,9 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":14.769252,
+  "duration":0.8333333,
   "exportDir":"",
-  "name":"snd_cidade",
+  "name":"snd_sfx",
   "parent":{
     "name":"SOUNDS",
     "path":"folders/SOUNDS.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_cidade.wav",
+  "soundFile":"snd_sfx.wav",
   "volume":1.0,
 }

@@ -29,10 +29,9 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-
     {"$GMObjectProperty":"v2","%Name":"varnome","filters":[],"listItems":[],"multiselect":false,"name":"varnome","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"upgrade1\"","varType":2,},
     {"$GMObjectProperty":"v2","%Name":"custo","filters":[],"listItems":[],"multiselect":false,"name":"custo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":0,},
-    {"$GMObjectProperty":"v2","%Name":"alvos","filters":[],"listItems":[],"multiselect":false,"name":"alvos","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[inst_B1E7A60,inst_721ADDD5,inst_169C92A1,inst_1EEF483E,inst_3AA00A5B,inst_4549A0DB,inst_751A30FA,inst_8BDAAE,inst_B1E7A60,inst_11159A07,inst_1612A899]","varType":4,},
+    {"$GMObjectProperty":"v2","%Name":"alvos","filters":[],"listItems":[],"multiselect":false,"name":"alvos","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[0,0]","varType":4,},
     {"$GMObjectProperty":"v2","%Name":"ativo","filters":[],"listItems":[],"multiselect":false,"name":"ativo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
   ],
   "resourceType":"GMObject",
