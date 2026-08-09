@@ -44,8 +44,3 @@ if (estado == "cemiterio") {
 	vel = 4;
 	dano = 3;
 }
-
-// Sobrescreve com o sprite de ataque, se estiver atacando
-if (atk) {
-	sprite_index = Spr_inimigo_atque;
-}
