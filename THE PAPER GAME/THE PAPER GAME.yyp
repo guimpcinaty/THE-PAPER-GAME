@@ -93,6 +93,7 @@
     {"id":{"name":"obj_upgrade","path":"objects/obj_upgrade/obj_upgrade.yy",},},
     {"id":{"name":"obj_volume_down","path":"objects/obj_volume_down/obj_volume_down.yy",},},
     {"id":{"name":"obj_volume_up","path":"objects/obj_volume_up/obj_volume_up.yy",},},
+    {"id":{"name":"Object46","path":"objects/Object46/Object46.yy",},},
     {"id":{"name":"creditos","path":"rooms/creditos/creditos.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
