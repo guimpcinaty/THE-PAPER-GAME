@@ -1,3 +1,6 @@
 
 vel = 3;
-dano = global.dano_inm;
+dano = 1;
+
+image_xscale = 0.03
+image_yscale = 0.03

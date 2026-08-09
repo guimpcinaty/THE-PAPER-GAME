@@ -119,6 +119,7 @@
     {"id":{"name":"snd_florest","path":"sounds/snd_florest/snd_florest.yy",},},
     {"id":{"name":"snd_intro","path":"sounds/snd_intro/snd_intro.yy",},},
     {"id":{"name":"snd_loop","path":"sounds/snd_loop/snd_loop.yy",},},
+    {"id":{"name":"snd_sfx_tor","path":"sounds/snd_sfx_tor/snd_sfx_tor.yy",},},
     {"id":{"name":"snd_sfx","path":"sounds/snd_sfx/snd_sfx.yy",},},
     {"id":{"name":"snd_sfx2","path":"sounds/snd_sfx2/snd_sfx2.yy",},},
     {"id":{"name":"snd_spooky_scary","path":"sounds/snd_spooky_scary/snd_spooky_scary.yy",},},
