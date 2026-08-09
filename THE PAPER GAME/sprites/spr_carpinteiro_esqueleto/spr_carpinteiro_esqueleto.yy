@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"spr_carpinteiro_esqueleto",
   "bboxMode":0,
-  "bbox_bottom":990,
+  "bbox_bottom":999,
   "bbox_left":36,
   "bbox_right":988,
   "bbox_top":0,
@@ -17,6 +17,7 @@
     {"$GMSpriteFrame":"v1","%Name":"364b6446-ca02-48e1-9f66-d3ce8c31291c","name":"364b6446-ca02-48e1-9f66-d3ce8c31291c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"05e5a555-7648-46ee-a704-c402f83335af","name":"05e5a555-7648-46ee-a704-c402f83335af","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"54512a4d-cde1-4453-b342-a4c36b0ba547","name":"54512a4d-cde1-4453-b342-a4c36b0ba547","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2bbc3af4-3879-4ca3-b310-ffcd156ff2a6","name":"2bbc3af4-3879-4ca3-b310-ffcd156ff2a6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -53,7 +54,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":5.0,
+    "length":6.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -87,6 +88,9 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"54512a4d-cde1-4453-b342-a4c36b0ba547","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"fa358521-3304-423e-8f92-e95b27e97a26","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2bbc3af4-3879-4ca3-b310-ffcd156ff2a6","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c80eb874-5f9c-4e84-a518-ae4cd6ab3c78","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
