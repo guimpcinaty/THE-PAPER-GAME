@@ -49,7 +49,7 @@ if (mouse_check_button_pressed(mb_left) && pode_atacar) {
 if (_right) image_xscale = 0.07 else if (_left) image_xscale = -0.07
 
 if (mouse_check_button_released(mb_right)){
-	if (global.moedas >= 3) {
-		instance_create_layer(mouse_x,mouse_y,layer,obj_torreta);
+	if (global.moedas >= custo_colocar) {
+		instance_create_layer(mouse_x,mouse_y,layer,colocar);
 	}
 }
