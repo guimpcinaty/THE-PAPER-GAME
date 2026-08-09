@@ -29,7 +29,9 @@
   "physicsStartAwake":true,
   "properties":[
     {"$GMObjectProperty":"v2","%Name":"alvos","filters":[],"listItems":[],"multiselect":false,"name":"alvos","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":4,},
-    {"$GMObjectProperty":"v2","%Name":"ativo","filters":[],"listItems":[],"multiselect":false,"name":"ativo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"ativo","filters":[],"listItems":[],"multiselect":false,"name":"ativo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"varnome","filters":[],"listItems":[],"multiselect":false,"name":"varnome","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"upgrade1\"","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"custo","filters":[],"listItems":[],"multiselect":false,"name":"custo","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
