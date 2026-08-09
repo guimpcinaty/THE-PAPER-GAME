@@ -170,8 +170,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_arvore_skill","path":"rooms/rm_arvore_skill/rm_arvore_skill.yy",},},
     {"roomId":{"name":"rm_intro","path":"rooms/rm_intro/rm_intro.yy",},},
+    {"roomId":{"name":"rm_arvore_skill","path":"rooms/rm_arvore_skill/rm_arvore_skill.yy",},},
     {"roomId":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
     {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"roomId":{"name":"rm_exemplo_curvas","path":"rooms/rm_exemplo_curvas/rm_exemplo_curvas.yy",},},
