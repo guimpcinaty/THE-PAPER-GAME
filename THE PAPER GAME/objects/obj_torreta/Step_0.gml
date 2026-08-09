@@ -11,7 +11,7 @@ if (atk > 0){
 	_tiro.dono = id
 	pode_atk = false;
 	alarm[0] = 60;
-	if (x > obj_carpinteiro.x) {
+	if (x > obj_inimigo_pai.x) {
 		image_xscale = -0.3
 	}else{
 		image_xscale = 0.3

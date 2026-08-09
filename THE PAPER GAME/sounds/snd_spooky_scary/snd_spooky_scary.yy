@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":185.14285,
+  "duration":33.91304,
   "exportDir":"",
   "name":"snd_spooky_scary",
   "parent":{
