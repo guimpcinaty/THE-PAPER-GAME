@@ -9,4 +9,7 @@ frames = global.frames;
 
 invencivel = false;
 
-pode_troca = true
+pode_troca = true;
+
+audio_pause_all();
+audio_play_sound(snd_florest,1,true)

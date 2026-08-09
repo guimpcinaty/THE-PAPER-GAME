@@ -19,4 +19,3 @@ function scr_trocar_estado() {
         exit;
     }
 }
-audio_stop_all();
