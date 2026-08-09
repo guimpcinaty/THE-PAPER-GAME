@@ -1,0 +1,2 @@
+
+if (!ativo) exit;
