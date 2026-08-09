@@ -132,6 +132,7 @@
     {"id":{"name":"spr_mimico","path":"sprites/spr_mimico/spr_mimico.yy",},},
     {"id":{"name":"spr_mouse_clique","path":"sprites/spr_mouse_clique/spr_mouse_clique.yy",},},
     {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},},
+    {"id":{"name":"spr_muda","path":"sprites/spr_muda/spr_muda.yy",},},
     {"id":{"name":"spr_noz_inm","path":"sprites/spr_noz_inm/spr_noz_inm.yy",},},
     {"id":{"name":"spr_noz","path":"sprites/spr_noz/spr_noz.yy",},},
     {"id":{"name":"spr_pedrinha_cemiterio","path":"sprites/spr_pedrinha_cemiterio/spr_pedrinha_cemiterio.yy",},},
