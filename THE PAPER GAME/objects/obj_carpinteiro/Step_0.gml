@@ -18,7 +18,7 @@ if (instance_exists(obj_torreta)){
 }
 
 if (estado == "floresta") {
-	if (!atk) sprite_index = spr_carpinteiro;
+	sprite_index = spr_carpinteiro;
 	if (!atk) {
 		atk = true;
 		if (collision_point(x,y,obj_casa,false,false) && !obj_casa.invencivel){

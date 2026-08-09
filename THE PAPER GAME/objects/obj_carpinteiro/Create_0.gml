@@ -11,8 +11,8 @@ invencivel = false;
 estado = global.estado; 
 
 atk = false; 
-tempo_atk = 120; 
-atk_cooldown = 120;
+tempo_atk = 60; 
+atk_cooldown = 60;
 atkou = false
 
 xoriginal = x 

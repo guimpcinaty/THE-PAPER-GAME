@@ -46,4 +46,4 @@ if (mouse_check_button_pressed(mb_left) && pode_atacar) {
 }
 
 
-//if (keyboard_check_pressed(_right)) image_xscale = -1 else image_xscale = 1
+if (_right) image_xscale = 0.07 else if (_left) image_xscale = -0.07
