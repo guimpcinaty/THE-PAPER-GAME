@@ -3,7 +3,7 @@
   "%Name":"spr_carpinteiro_esqueleto",
   "bboxMode":0,
   "bbox_bottom":999,
-  "bbox_left":36,
+  "bbox_left":33,
   "bbox_right":988,
   "bbox_top":0,
   "collisionKind":1,
@@ -15,6 +15,7 @@
     {"$GMSpriteFrame":"v1","%Name":"8ce5d48a-aada-492c-9ace-a32220e96229","name":"8ce5d48a-aada-492c-9ace-a32220e96229","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"a7649cf1-3230-42a8-9668-8490b33f5bea","name":"a7649cf1-3230-42a8-9668-8490b33f5bea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"364b6446-ca02-48e1-9f66-d3ce8c31291c","name":"364b6446-ca02-48e1-9f66-d3ce8c31291c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3e4c8fda-33a4-4daf-b9df-eb622d4f6bae","name":"3e4c8fda-33a4-4daf-b9df-eb622d4f6bae","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"05e5a555-7648-46ee-a704-c402f83335af","name":"05e5a555-7648-46ee-a704-c402f83335af","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"54512a4d-cde1-4453-b342-a4c36b0ba547","name":"54512a4d-cde1-4453-b342-a4c36b0ba547","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"2bbc3af4-3879-4ca3-b310-ffcd156ff2a6","name":"2bbc3af4-3879-4ca3-b310-ffcd156ff2a6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -54,7 +55,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":6.0,
+    "length":7.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -83,14 +84,17 @@
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"364b6446-ca02-48e1-9f66-d3ce8c31291c","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"17359e95-5988-4ff2-afff-4a7a08ed8da7","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3e4c8fda-33a4-4daf-b9df-eb622d4f6bae","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"596f54e0-f784-44ed-b79d-d06ad89525e6","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"05e5a555-7648-46ee-a704-c402f83335af","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"19cde72e-5217-411f-8089-4b392f334881","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"19cde72e-5217-411f-8089-4b392f334881","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"54512a4d-cde1-4453-b342-a4c36b0ba547","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fa358521-3304-423e-8f92-e95b27e97a26","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"fa358521-3304-423e-8f92-e95b27e97a26","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2bbc3af4-3879-4ca3-b310-ffcd156ff2a6","path":"sprites/spr_carpinteiro_esqueleto/spr_carpinteiro_esqueleto.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c80eb874-5f9c-4e84-a518-ae4cd6ab3c78","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"c80eb874-5f9c-4e84-a518-ae4cd6ab3c78","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
