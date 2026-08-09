@@ -111,6 +111,7 @@
     {"id":{"name":"snd_loop","path":"sounds/snd_loop/snd_loop.yy",},},
     {"id":{"name":"snd_spooky_scary","path":"sounds/snd_spooky_scary/snd_spooky_scary.yy",},},
     {"id":{"name":"spr_art","path":"sprites/spr_art/spr_art.yy",},},
+    {"id":{"name":"spr_arvore_cemiterio","path":"sprites/spr_arvore_cemiterio/spr_arvore_cemiterio.yy",},},
     {"id":{"name":"spr_arvore","path":"sprites/spr_arvore/spr_arvore.yy",},},
     {"id":{"name":"spr_atk_esp","path":"sprites/spr_atk_esp/spr_atk_esp.yy",},},
     {"id":{"name":"spr_barra_fundo","path":"sprites/spr_barra_fundo/spr_barra_fundo.yy",},},
