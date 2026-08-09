@@ -25,6 +25,11 @@ if (pode_troca) {
 		alarm[0] = 15;
 	}
 }
+if (keyboard_check_pressed(imputs.troca) && pode_troca) {
+    scr_trocar_estado();
+    pode_troca = false;
+    alarm[2] = 15; // tempo de cooldown pra poder trocar de novo, ajusta como quiser
+}
 
 // Step Event do obj_player
 // Atualiza para onde o player está olhando (baseado no mouse)
