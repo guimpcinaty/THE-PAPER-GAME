@@ -1,4 +1,6 @@
 
+audio_play_sound(snd_sfx,0,false)
+
 switch(action) {
     case "play":
         room_goto(Level1);
