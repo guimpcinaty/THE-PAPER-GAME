@@ -1,1 +1,2 @@
-isso (por enquanto) é apenas para os devs
+isso é o codigo do jogo! não tente abrir
+
