@@ -21,7 +21,9 @@ switch (room) {
 }
 
 if (global.wave != global.wave_anterior) {
+	if (global.wave >= 2){
     global.moedas += 10;
+	}
     global.wave_anterior = global.wave;
 }
 
