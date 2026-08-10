@@ -1,2 +1,2 @@
 event_inherited();
-global.moedas = 0;
+global.moedas = +2;
