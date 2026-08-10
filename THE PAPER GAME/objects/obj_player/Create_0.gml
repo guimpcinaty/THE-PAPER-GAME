@@ -8,6 +8,11 @@ velv = 0;
 velh = 0;
 grav = .5;
 
+colocar = obj_torreta
+custo_colocar = 3;
+tempo_colocar = 30;
+pd_girar = true;
+
 globais = choose(global.dano_esp, global.dano_inm, global.vida_esp, global.vida_inm);
 global_esc = globais;
 

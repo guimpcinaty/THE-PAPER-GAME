@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key_A",
-  "eventList":[],
+  "%Name":"obj_left",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_key_A",
+  "name":"obj_left",
   "overriddenProperties":[],
   "parent":{
     "name":"SPRITES",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key_a",
-    "path":"sprites/spr_key_a/spr_key_a.yy",
+    "name":"spr_mb_left",
+    "path":"sprites/spr_mb_left/spr_mb_left.yy",
   },
   "spriteMaskId":null,
   "visible":true,

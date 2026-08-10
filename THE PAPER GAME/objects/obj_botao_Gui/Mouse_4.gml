@@ -3,7 +3,7 @@ audio_play_sound(snd_sfx,0,false)
 
 switch(action) {
     case "play":
-        room_goto(Level1);
+        room_goto(rm_tutorial);
 		if (file_exists("savelegal.ini")){
 			scr_load_game()
 		}else{
