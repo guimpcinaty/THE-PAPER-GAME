@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key_w",
+  "%Name":"obj_key_a",
   "eventList":[],
   "managed":true,
-  "name":"obj_key_w",
+  "name":"obj_key_a",
   "overriddenProperties":[],
   "parent":{
     "name":"SPRITES",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_key_w",
-    "path":"sprites/spr_key_w/spr_key_w.yy",
+    "name":"spr_key_a",
+    "path":"sprites/spr_key_a/spr_key_a.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_key_F",
-  "eventList":[],
+  "%Name":"obj_key_f",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_key_F",
+  "name":"obj_key_f",
   "overriddenProperties":[],
   "parent":{
-    "name":"THE PAPER GAME",
-    "path":"THE PAPER GAME.yyp",
+    "name":"SPRITES",
+    "path":"folders/SPRITES.yy",
   },
   "parentObjectId":null,
   "persistent":false,

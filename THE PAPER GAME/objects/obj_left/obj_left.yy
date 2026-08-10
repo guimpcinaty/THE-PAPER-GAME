@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"aaa",
-  "eventList":[],
+  "%Name":"obj_left",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"aaa",
+  "name":"obj_left",
   "overriddenProperties":[],
   "parent":{
-    "name":"ROOMS",
-    "path":"folders/ROOMS.yy",
+    "name":"SPRITES",
+    "path":"folders/SPRITES.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_mb_left",
+    "path":"sprites/spr_mb_left/spr_mb_left.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
