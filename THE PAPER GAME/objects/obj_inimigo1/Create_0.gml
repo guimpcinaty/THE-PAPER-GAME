@@ -1,9 +1,9 @@
 image_xscale = 0.085;
 image_yscale = 0.085;
-vida_max = 10;
+vida_max = 75;
 vida = vida_max;
-dano = 10;
-vel = 2;
+dano = 5;
+vel = 3;
 invencivel = false;
 estado = global.estado;
 atk = false;

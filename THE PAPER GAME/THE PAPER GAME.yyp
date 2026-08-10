@@ -71,6 +71,7 @@
     {"id":{"name":"obj_exemplo_linha","path":"objects/obj_exemplo_linha/obj_exemplo_linha.yy",},},
     {"id":{"name":"obj_exemplo_movimento","path":"objects/obj_exemplo_movimento/obj_exemplo_movimento.yy",},},
     {"id":{"name":"obj_fundo_room1","path":"objects/obj_fundo_room1/obj_fundo_room1.yy",},},
+    {"id":{"name":"obj_gameover","path":"objects/obj_gameover/obj_gameover.yy",},},
     {"id":{"name":"obj_inimigo_pai","path":"objects/obj_inimigo_pai/obj_inimigo_pai.yy",},},
     {"id":{"name":"obj_inimigo1","path":"objects/obj_inimigo1/obj_inimigo1.yy",},},
     {"id":{"name":"obj_intro_termina","path":"objects/obj_intro_termina/obj_intro_termina.yy",},},

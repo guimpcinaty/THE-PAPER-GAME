@@ -1,5 +1,5 @@
 estado = global.estado;
-if (vida == 0) instance_destroy();
+if (vida <= 0) instance_destroy();
 
 if (instance_exists(obj_torreta)){
 	move_towards_point(obj_torreta.x, obj_torreta.y, vel);
