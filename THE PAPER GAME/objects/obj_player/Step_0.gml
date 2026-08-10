@@ -20,7 +20,10 @@ if (pode_troca) {
 	if (_troca) {
 		sprite_index = spr_player_agachando;
 		scr_trocar_estado();
-		scr_consequencia(25,50,choose(global.dano_esp,global.dano_inm,global.vida_esp,global.vida_inm));
+		global.dano_esp += scr_consequencia(25,50,global.dano_esp);
+		global.dano_inm += scr_consequencia(25,50,global.dano_inm);
+		global.vida_esp += scr_consequencia(25,50,global.vida_esp);
+		global.vida_esp += scr_consequencia(25,50,global.vida_inm);
 		pode_troca = false;
 		alarm[0] = 15;
 	}
