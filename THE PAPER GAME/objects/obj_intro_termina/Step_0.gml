@@ -1,5 +1,5 @@
 
-if (room == rm_intro){
+if (room == rm_intro || room = creditos){
 if (keyboard_check(vk_control)){
 	room_goto(room_menu);
 }
